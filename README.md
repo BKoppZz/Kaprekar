@@ -1,5 +1,7 @@
 # Constante de Kaprekar
 
+Trabalho feito pelo aluno Bernardo Kopp Pinheiro - RGM 47294264
+
 Este repositório contém a implementação, em Python, de um algoritmo que executa a **Constante de Kaprekar**, conforme proposto na disciplina de Programação de Computadores do curso de Análise e Desenvolvimento de Sistemas.
 
 O objetivo é demonstrar, de forma iterativa, como números de quatro dígitos convergem para a constante **6174**.
